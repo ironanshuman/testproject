@@ -1,0 +1,67 @@
+.body{
+    font-family: lato;
+}
+.p1{float:left;
+    border-radius: 20px 0px 0px 20px;
+    
+    margin:50px 10px 50px 0px;
+    padding:50px;
+    box-shadow:0px 0px 10px 3px #999;
+    
+
+}
+.p2{
+    float:right;
+    
+    border-radius: 0px 20px 20px 0px;
+    
+    margin:50px 10px 50px 0px;
+    padding:50px;
+    box-shadow:0px 0px 10px 3px #999;
+   
+}
+header{
+    font-weight: bold;
+    color:aqua;
+    
+}
+.currentBox{
+    color:white;
+    margin:50px 0px 0px 0px;
+    background-color:crimson;
+    
+    padding:10px 30px 10px 30px;
+      
+}
+
+#roll{
+    position: relative;
+    visibility: visible;
+    left:300px;
+    top:300px;
+    
+}
+#dice{
+    
+position: absolute;
+    left: 500px;
+    top:100px;
+    
+}
+
+.active{
+    background-color:#DCDCDC;
+}
+.score0{
+    font-size: 50px;
+}
+.score1{
+    font-size: 50px;
+}
+#hold{
+    position: relative;
+    visibility: visible;
+    left:230px;
+    top:340px;
+}
+
